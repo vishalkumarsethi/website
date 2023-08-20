@@ -24,6 +24,11 @@ toc:
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path:     /assets/gitbook/images/favicon.ico
 
+#google analytics
+tracker:
+  google_analytics: "<YOUR GOOGLE ANALYTICS KEY, e.g, UA-xxxxxx-x>"
+
+
 # markdown render engine.
 markdown:         kramdown
 kramdown:
